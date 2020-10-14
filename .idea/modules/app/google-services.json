@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "787071862766",
+    "firebase_url": "https://androidfoodxpress-ebf54.firebaseio.com",
+    "project_id": "androidfoodxpress-ebf54",
+    "storage_bucket": "androidfoodxpress-ebf54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787071862766:android:2a272559d1501ff296f0ff",
+        "android_client_info": {
+          "package_name": "com.example.androidfoodxpress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787071862766-6o5liijkfjdkhee7emdq1s8b6ponl4ps.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.androidfoodxpress",
+            "certificate_hash": "b09d8b6da145780ac086ad8cb7c8c5c08a425de6"
+          }
+        },
+        {
+          "client_id": "787071862766-5olm97v46ig4nf7jg0bstqcri0r0kvru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvxggEp6UZRabFV_wLrajqqm7NKFqoZI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787071862766-5olm97v46ig4nf7jg0bstqcri0r0kvru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
